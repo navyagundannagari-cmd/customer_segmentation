@@ -1,2 +1,2 @@
-pip install flask pandas scikit-learn matplotlib seaborn
-python app.py
+->pip install flask pandas scikit-learn matplotlib seaborn
+->python app.py
