@@ -1,0 +1,2 @@
+pip install flask pandas scikit-learn matplotlib seaborn
+python app.py
